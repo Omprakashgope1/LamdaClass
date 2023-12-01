@@ -1,0 +1,14 @@
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.AssemblyInfoInputs.cache
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.AssemblyInfo.cs
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.exe
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.deps.json
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.runtimeconfig.json
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.dll
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.pdb
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.dll
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\refint\LamdaExpression.dll
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.pdb
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.genruntimeconfig.cache
+C:\Users\OM\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\ref\LamdaExpression.dll
